@@ -18,6 +18,8 @@ MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/116831534/221758397-280e4a1c-0484-46d7-b7b5-44b3fecf625d.png)
 
+![image](https://user-images.githubusercontent.com/116831534/221914801-35d2ff53-939c-40dd-845e-f0d81cfaa76b.png)
+
 EXPLICACIÓN DEL PROCEDIMIENTO. -
 
 Los materiales que ocuparemos serán los siguientes:
@@ -68,11 +70,11 @@ Además, la luz debe ser intensiva para que esta pueda funcionar, mientras que l
 
 VIDEO. -
 
-
+https://youtu.be/va_804rEMxI
 
 CONCLUSIONES. -
 
-
+En conclusion, por medio de la practica y de la investigacion de los nuevos componentes electronicos que utilizamos para este proyecto, se pudo observar que pueden implementarse en varios casos que benefician a nuestra sociedad, como es en este caso, un circuito de alumbrado publico, en donde se usa una fotocelda que cada que capta la ausencia de luz, procede a encender un foco conectada a esta.
 
 BIBLIOGRAFÍA. -
 
