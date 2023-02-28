@@ -10,7 +10,9 @@ Mike Josue Rodríguez Tomaselli
 
 OBJETIVOS
 
+Comprender las características y funciones del transistor Tip 120, Relay y el circuito integrado VA741
 
+Por medio de la práctica y con ayuda de algunos materiales, realizar un circuito de alumbrado publico
 
 MARCO TEORICO
 
